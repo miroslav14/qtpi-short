@@ -1,4 +1,5 @@
 from ipykernel.kernelbase import Kernel
+import subprocess
 
 class QtpiShort(Kernel):
     implementation = 'Qtpi'
