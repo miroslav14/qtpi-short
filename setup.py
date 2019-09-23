@@ -5,7 +5,7 @@ with open('README.txt') as f:
 
 setup(
     name='qtpi_short',
-    version='0.1.0',
+    version='0.1.1',
     packages=['qtpi_short'],
     description='Simple example kernel for Jupyter',
     long_description_content_type='text/markdown',
