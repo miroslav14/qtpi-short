@@ -1,1 +1,1 @@
-# qtpi-short
+# qtpi_short
